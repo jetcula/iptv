@@ -37,6 +37,36 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,CGTN
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西一套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西二套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西三套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西四套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西五套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西六套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西七套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,陕西八套
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安-1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安-2
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安-3
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安-4
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安丝路
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,西安教育台
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,CHC高清电影
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,CHC动作电影
@@ -97,36 +127,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 #EXTINF:-1 ,哒啵赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西一套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西二套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西三套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西四套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西五套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西六套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西七套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,陕西八套
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安-1
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安-2
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安-3
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安-4
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安丝路
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,西安教育台
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 ,浙江卫视高清
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,江苏卫视高清
